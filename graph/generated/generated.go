@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"context"
 	"errors"
-	"exapmle/go-graqhql-postgres/graph/model"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph/model"
 	"fmt"
 	"strconv"
 	"sync"

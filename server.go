@@ -1,8 +1,8 @@
 package main
 
 import (
-	"exapmle/go-graqhql-postgres/graph"
-	"exapmle/go-graqhql-postgres/graph/generated"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph/generated"
 	"log"
 	"net/http"
 	"os"

@@ -5,8 +5,8 @@ package graph
 
 import (
 	"context"
-	"exapmle/go-graqhql-postgres/graph/generated"
-	"exapmle/go-graqhql-postgres/graph/model"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph/generated"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph/model"
 	"fmt"
 )
 func (r *mutationResolver) CreateUser(ctx context.Context, input model.NewUser) (*model.User, error) {

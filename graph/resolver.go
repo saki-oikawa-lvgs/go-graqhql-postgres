@@ -2,10 +2,8 @@ package graph
 
 import (
 	"database/sql"
-	"fmt"
-	"time"
-
-	"github.com/go-graqhql-postgres/graph/model"
+	
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph/model"
 	_ "github.com/lib/pq"
 )
 

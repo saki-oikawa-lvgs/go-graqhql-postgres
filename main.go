@@ -8,8 +8,8 @@ import (
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/go-graqhql-postgres/graph"
-	"github.com/go-graqhql-postgres/graph/generated"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph"
+	"github.com/saki-oikawa-lvgs/go-graqhql-postgres/graph/generated"
 
 	_ "github.com/lib/pq"
 )
